@@ -12,6 +12,8 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 // Create a function johnLennonFacts, which accepts one array parameter
-fucntion johnLennonFacts(arr){
-  
+function johnLennonFacts(arr){
+  while(i >= 0) {
+    
+  }
 }
