@@ -23,6 +23,7 @@ function johnLennonFacts(facts) {
   return arr;
 }
 
+// Create a function iLoveTheBeatles, which accepts one number as a parameter
 function iLoveTheBeatles(num) {
   var arr = [];
   do {
