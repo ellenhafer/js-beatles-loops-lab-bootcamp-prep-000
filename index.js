@@ -10,3 +10,8 @@ function theBeatlesPlay(musicians, instruments){
   // Return the new array
   return arr;
 }
+
+// Create a function johnLennonFacts, which accepts one array parameter
+fucntion johnLennonFacts(arr){
+  
+}
