@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians, instruments){
   // Create a for loop which loops over the musicians array
   for(let i = 0; i < musicians.length; i++) {
     // Add string to empty array
-    arr.pop(`${musicians[i]} plays ${instruments[i]}`)
+    arr.push(`${musicians[i]} plays ${instruments[i]}`)
   }
   // Return the new array
   return arr;
